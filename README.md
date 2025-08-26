@@ -227,29 +227,6 @@ Para mais detalhes sobre erros, verifique:
 - **Docstrings** para funções
 - **Type hints** quando possível
 - **Tratamento de erros** robusto
-
----
-
-## 📄 Licença
-
-Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-## 📞 Suporte
-
-### Onde Obter Ajuda
-- 📧 **Email**: [seu-email@exemplo.com]
-- 💬 **Issues**: [GitHub Issues](link-para-issues)
-- 📚 **Documentação**: Este README
-- 🔧 **Wiki**: [GitHub Wiki](link-para-wiki)
-
-### Informações do Sistema
-- **Sistema**: Frota162
-- **Versão Testada**: [versão atual]
-- **Última Atualização**: [data]
-- **Status**: ✅ Funcionando
-
 ---
 
 ## 🙏 Agradecimentos
